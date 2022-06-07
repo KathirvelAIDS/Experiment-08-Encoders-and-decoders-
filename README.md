@@ -96,6 +96,9 @@ endmodulE
 ### TIMING DIGRAMS  
 
 
+![image](https://user-images.githubusercontent.com/94911373/172346108-515bc4f2-b6f3-4f1b-9ca1-aa72e533024b.png)
+
+
 
 
 
